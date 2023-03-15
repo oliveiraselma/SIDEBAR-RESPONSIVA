@@ -40,6 +40,7 @@ body {
   border-radius: 50%;
   object-fit: cover;
   transition: transform 0.4s;
+  
 }
 
 .logo-img:hover{
@@ -110,6 +111,8 @@ body {
   margin-right: 6px;
   overflow: hidden;
 }
+
+
 
 @media (width < 920px) {
   .main{
@@ -187,4 +190,5 @@ body {
     transition: margin 0.4s;
     margin-left: 6px;
   }
+
 }
