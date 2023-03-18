@@ -6,6 +6,6 @@
 <p> <p/>
 <p> Utilizei como tecnologia HTML , CSS, e algumas funcionalidades em Javascript.🚀<p/>
 <br>
-<img src='assets/img/assets/img/Screenshot_4.png'>
+<img src='assets/img/Screenshot_4.png'>
 <br>
-<img src='assets/img/assets/img/Screenshot_5.png'>
+<img src='assets/img/Screenshot_5.png'>
